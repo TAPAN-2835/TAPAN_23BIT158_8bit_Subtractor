@@ -1,6 +1,3 @@
-
-
-````markdown
  🔧 RTL to GDSII Flow – 8-bit Subtractor (Synopsys Flow)
 
 This repository documents a complete backend digital design flow for an **8-bit subtractor** implemented using **Synopsys EDA tools**. The project follows the full **RTL to GDSII** cycle, including synthesis, floorplanning, placement, CTS, routing, and STA analysis.
@@ -9,10 +6,10 @@ This repository documents a complete backend digital design flow for an **8-bit 
 
 📁 Project Overview
 
-- **Design:** 8-bit Subtractor (in Verilog)
-- **Tools Used:** Synopsys VCS, Design Compiler, IC Compiler II, PrimeTime
-- **Flow Type:** ASIC Digital Backend Design
-- **Output:** Synthesized Netlist, GDSII-ready physical layout, STA reports
+- Design: 8-bit Subtractor (in Verilog)
+- Tools Used: Synopsys VCS, Design Compiler, IC Compiler II, PrimeTime
+- Flow Type: ASIC Digital Backend Design
+- Output: Synthesized Netlist, GDSII-ready physical layout, STA reports
 
 ---
 
